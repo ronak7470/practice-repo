@@ -6,3 +6,8 @@
 // Reference types(Non primitive)
 
 // Array, Object, Function, Set, Map, Date, RegExp
+
+//+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+//Memrory Types
+// Primitive types are stored in stack memory
+// Reference types are stored in heap memory
